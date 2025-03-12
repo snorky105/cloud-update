@@ -32,10 +32,11 @@ python main.py
 ```
 
 ## 🛠️ Tecnologie utilizzate
-- ✅ Tecnologia 1
-- ✅ Tecnologia 2
-- ✅ Tecnologia 3
-
+- ✅ **Python:** Linguaggio di programmazione principale
+- ✅ **Paramiko**: libreria per la gestione delle connessioni SFTP/SSH
+- ✅ **JSon**: formato per il file di configurazione.
+- ✅ **Git**: controllo di versione per il progetto.
+--
 ## 🤝 Contributi
 Se vuoi contribuire, segui questi passaggi:
 1. Fork del progetto
@@ -47,5 +48,5 @@ Se vuoi contribuire, segui questi passaggi:
 ## 📜 Licenza
 Questo progetto è distribuito sotto la licenza MIT. Vedi il file LICENSE per maggiori dettagli.
 
-##Autore
-🔗 Autore: Ricci Lorenzo
+
+##🔗 Autore: Ricci Lorenzo
